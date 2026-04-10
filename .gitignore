@@ -1,0 +1,14 @@
+# Act 5 — .gitignore para proyecto WeatherApp KMP
+
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Android Studio
+.idea/
+*.iml
+local.properties
+
+# API Keys — NUNCA subir al repositorio
+secrets.properties
