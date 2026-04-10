@@ -24,7 +24,3 @@ App de clima para Android con Kotlin Multiplatform.
 
 ## Seguridad
 La API key **no está incluida** en este repositorio. Para usar la app con datos reales, reemplaza `YOUR_API_KEY_HERE` en `WeatherApiClient.kt` con tu clave de [OpenWeatherMap](https://openweathermap.org).
-
-## Capturas
-<!-- Agrega tus capturas de pantalla aquí -->
-![App screenshot](screenshots/app.png)
